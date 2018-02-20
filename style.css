@@ -1,10 +1,9 @@
 body { 
-    background-color: white;
+    background-color: #abc4d1;
+    font-family: Lato;
+    color: white
 }
 
-h1 {
-    text-align: center;
-}
 .btn1 {
     outline: none;
     border: none;
@@ -36,4 +35,6 @@ h1 {
 .logo {
     margin: 0 auto;
     display: block;
+    width: 400px;
+    height: auto;
 }
